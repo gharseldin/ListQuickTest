@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ListQuickTest.iml" filepath="$PROJECT_DIR$/ListQuickTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.3/gson-2.3.iml" filepath="$PROJECT_DIR$/gson-2.3/gson-2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picasso-2.3.4/picasso-2.3.4.iml" filepath="$PROJECT_DIR$/picasso-2.3.4/picasso-2.3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
     </modules>
   </component>
 </project>
